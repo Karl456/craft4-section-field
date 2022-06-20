@@ -4,14 +4,14 @@
  * @copyright Copyright Charlie Development
  */
 
-namespace charliedev\sectionfield;
+namespace karl456\sectionfield;
 
 use Craft;
 use craft\base\Plugin;
 use craft\events\RegisterComponentTypesEvent;
 use craft\services\Fields;
 
-use charliedev\sectionfield\fields\SectionField;
+use karl456\sectionfield\fields\SectionField;
 
 use yii\base\Event;
 
